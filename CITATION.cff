@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use RiSO, please cite it as below."
+type: dataset
+title: "RiSO: A BFO-Compliant Upper-Domain Risk Science Ontology"
+version: "2.0.0"
+date-released: "2026-09-15"
+license: CC-BY-4.0
+url: "https://w3id.org/riso/"
+repository-code: "https://github.com/[YOUR-USERNAME]/riso"
+authors:
+  - family-names: "[Butler]"
+    given-names: "[Tom]"
+    orcid: "https://orcid.org/0000-0002-4053-183X"
+- family-names: "[Seppälä]"
+    given-names: "[Selja]"
+    orcid: "https://orcid.org/0000-0002-0791-1347"
+keywords:
+  - ontology
+  - risk science
+  - Basic Formal Ontology
+  - BFO
+  - ISO/IEC 21838
+  - risk assessment
+  - resilience
+# Once this release is archived on Zenodo, add the minted DOI here, e.g.:
+# doi: "10.5281/zenodo.XXXXXXX"
