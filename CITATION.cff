@@ -11,7 +11,7 @@ authors:
   - family-names: "Butler"
     given-names: "Tom"
     orcid: "https://orcid.org/0000-0002-4053-183X"
-- family-names: "Seppälä"
+  - family-names: "Seppälä"
     given-names: "Selja"
     orcid: "https://orcid.org/0000-0002-0791-1347"
 keywords:
