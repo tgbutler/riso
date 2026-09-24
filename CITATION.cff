@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use RiSO, please cite it as below."
 type: dataset
 title: "RiSO: A BFO-Compliant Upper-Domain Risk Science Ontology"
-version: "2.0.0"
-date-released: "2026-09-15"
+version: "2.1.0"
+date-released: "2026-09-24"
 license: CC-BY-4.0
 url: "https://w3id.org/riso/"
 repository-code: "https://github.com/tgbutler/riso"
@@ -22,4 +22,4 @@ keywords:
   - ISO/IEC 21838
   - risk assessment
   - resilience
-doi: "10.5281/zenodo.22807604" 
+doi: "10.5281/zenodo.22807603"
